@@ -1,0 +1,12 @@
+.Header {
+  background-color: #524d46;
+  font-size: large;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+  height: 50px;
+}
+.link {
+  color: #ffede6;
+}
